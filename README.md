@@ -1,4 +1,4 @@
-# Fundamentos-de-Circuitos
+# Fundamentos de Circuitos Eléctricos
 # Tarea 1
 # Objetivo General
 Desarrollar habilidades prácticas que se puedan aplicar para resolver problemas referentes a los circuitos eléctricos.
