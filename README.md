@@ -84,7 +84,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%289.2%20x%2010%5E%7B6%7D%29&plus;%283.4%20x%2010%5E%7B7%7D%29)
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%289.2%20x%2010%5E%7B6%7D%29&plus;%2834%20x%2010%5E%7B6%7D%29)
-= ![[first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2043.2%20x%2010%5E%7B6%7D)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2043.2%20x%2010%5E%7B6%7D)
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%204.32%20x%2010%5E%7B7%7D)
 
 b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29&plus;%288.5%20x%2010%5E%7B-1%7D%29)
