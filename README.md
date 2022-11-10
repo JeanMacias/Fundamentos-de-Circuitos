@@ -29,3 +29,5 @@ CAPÍTULO 1
 a) 3000
 
 = 3*10^3
+
+![first equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7B2%7D)
