@@ -32,4 +32,36 @@ a) 3000
 
 b) 75000
 
-= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203.5%20x%2010%5E%7B4%7D)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%207.5%20x%2010%5E%7B4%7D)
+
+c) 2000000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202%20x%2010%5E%7B6%7D)
+
+3. Exprese cada uno de los siguientes números en notación científica
+
+a) 8400
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%208.4%20x%2010%5E%7B3%7D)
+
+b) 99000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%209.9%20x%2010%5E%7B4%7D)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%200.2%20x%2010%5E%7B6%7D)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202%20x%2010%5E%7B5%7D)
+
+5. Exprese cada uno de los números siguientes en notación científica:
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2032%20x%2010%5E%7B3%7D)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203.2%20x%2010%5E%7B4%7D)
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%206800%20x%2010%5E%7B-6%7D)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%206.8%20x%2010%5E%7B-3%7D)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20870%20x%2010%5E%7B8%7D)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%208.7%20x%2010%5E%7B10%7D)
