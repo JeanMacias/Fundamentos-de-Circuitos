@@ -81,3 +81,5 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 = 0.39
 
 9) Sume los números siguientes:
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Ctiny%203.9%20x%2010%5E%7B-1%7D)
