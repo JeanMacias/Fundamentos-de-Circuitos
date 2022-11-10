@@ -18,3 +18,4 @@ compresión de los circuitos eléctricos.
 ![Mapa Mental Capítulo 2_page-0003](https://user-images.githubusercontent.com/116774235/201174015-b0aa23c2-1a55-491d-b892-5bdfed2f15b4.jpg)
 ![Mapa Mental Capítulo 2_page-0004](https://user-images.githubusercontent.com/116774235/201174029-63997615-2839-478a-a9eb-06c5e5a1e2a2.jpg)
 ![Mapa Mental Capítulo 2_page-0005](https://user-images.githubusercontent.com/116774235/201174045-bccb642b-d931-4215-8ed9-f2f021c2eee0.jpg)
+
