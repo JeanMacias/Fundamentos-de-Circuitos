@@ -24,7 +24,7 @@ EJERCICIOS IMPARES
 
 CAPÍTULO 1
 
-1. Exprese cada uno de los números siguientes en notación científica:
+1. Exprese cada uno de los números siguientes en notación científica
 
 a) 3000
 
@@ -52,7 +52,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202%20x%2010%5E%7B5%7D)
 
-5. Exprese cada uno de los números siguientes en notación científica:
+5. Exprese cada uno de los números siguientes en notación científica
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2032%20x%2010%5E%7B3%7D)
 
@@ -80,7 +80,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = 0.39
 
-9. Sume los números siguientes:
+9. Sume los números siguientes
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%289.2%20x%2010%5E%7B6%7D%29&plus;%283.4%20x%2010%5E%7B7%7D%29)
 
@@ -118,7 +118,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.54%20x%2010%5E%7B-14%7D%29)
 
-13. Exprese cada uno de los números siguientes en notación de ingeniería:
+13. Exprese cada uno de los números siguientes en notación de ingeniería
 
 a) 89000
 
@@ -132,7 +132,7 @@ c) 12040000000000
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2812.04%20x%2010%5E%7B12%7D%29)
 
-15. Exprese cada número en notación de ingeniería:
+15. Exprese cada número en notación de ingeniería
 
 a) 0.000345
 
@@ -159,4 +159,100 @@ b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.25%20x%2010%5E%7B6%7D%29&plus;%28250%20x%2010%5E%7B3%7D%29)
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.5%20x%2010%5E%7B6%7D%29)
+
+19. Divida los números siguientes y exprese cada resultado en notación de ingeniería
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2050/%282.2%20x%2010%5E%7B3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B1%7D%29/%282.2%20x%2010%5E%7B3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2822.7%20x%2010%5E%7B-3%7D%29)
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29/%2825%20x%2010%5E%7B-6%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29/%280.025%20x%2010%5E%7B-3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28200%20x%2010%5E%7B6%7D%29)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28560%20x%2010%5E%7B3%7D%29/%28660%20x%2010%5E%7B3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28560%20x%2010%5E%7B3%7D%29/%280.000660%20x%2010%5E%7B-3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28848%20x%2010%5E%7B-3%7D%29)
+
+21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28345%20x%2010%5E%7B-6%7D%29)
+
+= 345 µA
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2825%20x%2010%5E%7B-3%7D%29)
+
+= 25 mA
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.29%20x%2010%5E%7B-9%7D%29)
+
+= 1.29 nA
+
+23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%283%20x%2010%5E%7B-6%7DF%29)
+
+= 3 µF
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%283.3%20x%2010%5E%7B6%7D%5COmega%29)
+
+= 3.3MΩ
+
+C) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28350%20x%2010%5E%7B-9%7DA%29)
+
+= 350A
+
+25. Exprese cada cantidad convirtiendo el prefijo métrico en potencia de 10
+
+a) 7.5 pA
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%287.5%20x%2010%5E%7B-12%7DA%29)
+
+b) 3.3 GHz
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%283.3%20x%2010%5E%7B9%7DHz%29)
+
+c) 280 nW
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.8%20x%2010%5E%7B-7%7DW%29)
+
+27. Realice las conversiones indicadas
+
+a) 5 mA a microamperes
+
+= 5000 µA
+
+b) 3200 µW a miliwatts
+
+= 3.2 mW
+
+c) 5000 kV a megavolts
+
+= 5 MV
+
+d) 10 MW a kilowatts
+
+= 10000 kW
+
+29. Sume las siguientes cantidades
+
+a) 50 mA + 680µA
+
+= 50.68 mA
+
+b) 120 kΩ + 2.2 MΩ
+
+= 2.32 MΩ
+
+c) 0.02 µF + 3300 pF
+
+= 0.0233 µF
+
+# CAPÍTULO 2
 
