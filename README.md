@@ -65,3 +65,19 @@ b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20870%20x%2010%5E%7B8%7D)
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%208.7%20x%2010%5E%7B10%7D)
+
+7. Exprese cada uno de los números siguientes como un número decimal regular
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202.5%20x%2010%5E%7B-6%7D)
+
+= 0.0000025
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%205.0%20x%2010%5E%7B2%7D)
+
+= 500
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203.9%20x%2010%5E%7B-1%7D)
+
+= 0.39
+
+9. Sume los números siguientes:
