@@ -80,6 +80,72 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = 0.39
 
-9) Sume los números siguientes:
+9. Sume los números siguientes:
 
-= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Ctiny%203.9%20x%2010%5E%7B-1%7D)
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%289.2%20x%2010%5E%7B6%7D%29&plus;%283.4%20x%2010%5E%7B7%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%289.2%20x%2010%5E%7B6%7D%29&plus;%2834%20x%2010%5E%7B6%7D%29)
+= ![[first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%2043.2%20x%2010%5E%7B6%7D)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%204.32%20x%2010%5E%7B7%7D)
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29&plus;%288.5%20x%2010%5E%7B-1%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29&plus;%280.00085%20x%2010%5E%7B3%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285.00085%20x%2010%5E%7B3%7D%29)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285.6%20x%2010%5E%7B-8%7D%29&plus;%284.6%20x%2010%5E%7B-9%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285.6%20x%2010%5E%7B-8%7D%29&plus;%280.46%20x%2010%5E%7B-8%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%286.06%20x%2010%5E%7B-8%7D%29)
+
+11. Realice las siguientes multiplicaciones
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29%284%20x%2010%5E%7B5%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2820%20x%2010%5E%7B8%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.0%20x%2010%5E%7B9%7D%29)
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.2%20x%2010%5E%7B12%7D%29%283%20x%2010%5E%7B2%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%283.6%20x%2010%5E%7B14%7D%29)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.2%20x%2010%5E%7B-9%7D%29%287%20x%2010%5E%7B-6%7D%29)
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.54%20x%2010%5E%7B-14%7D%29)
+
+13. Exprese cada uno de los números siguientes en notación de ingeniería:
+
+a) 89000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2889%20x%2010%5E%7B3%7D%29)
+
+b) 450000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28450%20x%2010%5E%7B3%7D%29)
+
+c) 12040000000000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2812.04%20x%2010%5E%7B12%7D%29)
+
+15. Exprese cada número en notación de ingeniería:
+
+a) 0.000345
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28345%20x%2010%5E%7B-6%7D%29)
+
+b) 0.025
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2825%20x%2010%5E%7B-3%7D%29)
+
+c) 0.00000000129
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.29%20x%2010%5E%7B-9%7D%29)
+
+17. Sume los números siguientes y exprese cada resultado en notación de ingeniería
+
+a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.5%20x%2010%5E%7B-3%7D%29&plus;%284.6%20x%2010%5E%7B-3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%287.1%20x%2010%5E%7B-3%7D%29)
+
+b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2868%20x%2010%5E%7B6%7D%29&plus;%2833%20x%2010%5E%7B6%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28101%20x%2010%5E%7B6%7D%29)
+
+c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.25%20x%2010%5E%7B6%7D%29&plus;%28250%20x%2010%5E%7B3%7D%29)
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.5%20x%2010%5E%7B6%7D%29)
+
