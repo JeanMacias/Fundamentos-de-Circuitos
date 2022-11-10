@@ -80,4 +80,4 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = 0.39
 
-9. Sume los números siguientes:
+9) Sume los números siguientes:
