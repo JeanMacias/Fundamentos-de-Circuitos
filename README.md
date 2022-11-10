@@ -1,4 +1,4 @@
-# Fundamentos de Circuitos Eléctricos
+#  Fundamentos de Circuitos Eléctricos
 # Tarea 1
 # Objetivo General
 Desarrollar habilidades prácticas que se puedan aplicar para resolver problemas referentes a los circuitos eléctricos.
@@ -28,6 +28,8 @@ CAPÍTULO 1
 
 a) 3000
 
-= 3*10^3
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203%20x%2010%5E%7B3%7D)
 
-![first equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7B2%7D)
+b) 75000
+
+= ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203.5%20x%2010%5E%7B4%7D)
