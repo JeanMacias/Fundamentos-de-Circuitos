@@ -44,6 +44,7 @@ c) 2000000
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202%20x%2010%5E%7B6%7D)
 
+
 3. Exprese cada uno de los siguientes números en notación científica
 
 a) 8400
@@ -57,6 +58,7 @@ b) 99000
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%200.2%20x%2010%5E%7B6%7D)
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202%20x%2010%5E%7B5%7D)
+
 
 5. Exprese cada uno de los números siguientes en notación científica
 
@@ -72,6 +74,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%208.7%20x%2010%5E%7B10%7D)
 
+
 7. Exprese cada uno de los números siguientes como un número decimal regular
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%202.5%20x%2010%5E%7B-6%7D)
@@ -85,6 +88,7 @@ b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%203.9%20x%2010%5E%7B-1%7D)
 
 = 0.39
+
 
 9. Sume los números siguientes
 
@@ -108,6 +112,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%286.06%20x%2010%5E%7B-8%7D%29)
 
+
 11. Realice las siguientes multiplicaciones
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%285%20x%2010%5E%7B3%7D%29%284%20x%2010%5E%7B5%7D%29)
@@ -124,6 +129,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.54%20x%2010%5E%7B-14%7D%29)
 
+
 13. Exprese cada uno de los números siguientes en notación de ingeniería
 
 a) 89000
@@ -137,6 +143,7 @@ b) 450000
 c) 12040000000000
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%2812.04%20x%2010%5E%7B12%7D%29)
+
 
 15. Exprese cada número en notación de ingeniería
 
@@ -152,6 +159,7 @@ c) 0.00000000129
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.29%20x%2010%5E%7B-9%7D%29)
 
+
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.5%20x%2010%5E%7B-3%7D%29&plus;%284.6%20x%2010%5E%7B-3%7D%29)
@@ -165,6 +173,7 @@ b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.25%20x%2010%5E%7B6%7D%29&plus;%28250%20x%2010%5E%7B3%7D%29)
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.5%20x%2010%5E%7B6%7D%29)
+
 
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería
 
@@ -186,6 +195,7 @@ c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28848%20x%2010%5E%7B-3%7D%29)
 
+
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico
 
 a) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%28345%20x%2010%5E%7B-6%7D%29)
@@ -199,6 +209,7 @@ b) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 c) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%281.29%20x%2010%5E%7B-9%7D%29)
 
 = 1.29 nA
+
 
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
 
@@ -214,6 +225,7 @@ C) ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cb
 
 = 350A
 
+
 25. Exprese cada cantidad convirtiendo el prefijo métrico en potencia de 10
 
 a) 7.5 pA
@@ -227,6 +239,7 @@ b) 3.3 GHz
 c) 280 nW
 
 = ![first equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_black%20%5Cfn_jvn%20%5Csmall%20%282.8%20x%2010%5E%7B-7%7DW%29)
+
 
 27. Realice las conversiones indicadas
 
@@ -246,6 +259,7 @@ d) 10 MW a kilowatts
 
 = 10000 kW
 
+
 29. Sume las siguientes cantidades
 
 a) 50 mA + 680µA
@@ -260,6 +274,7 @@ c) 0.02 µF + 3300 pF
 
 = 0.0233 µF
 
+
 # CAPÍTULO 2
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
@@ -267,9 +282,11 @@ c) 0.02 µF + 3300 pF
 
 ![EJERCICIOS FCE_page-0001](https://user-images.githubusercontent.com/116774235/201235015-419cd3e8-e445-4234-bcbf-ccf62b9f8693.jpg)
 
+
 3. ¿Cuántos coulombs de carga poseen 50 x 10^31 electrones?
 
 ![EJERCICIOS FCE_page-0002](https://user-images.githubusercontent.com/116774235/201235236-6a104e42-59a1-4f2b-ad0c-d03d31b25977.jpg)
+
 
 5. Determine el voltaje en cada uno de los siguientes casos
 
@@ -285,32 +302,39 @@ c) 100 J/25 C
 
 ![EJERCICIOS FCE_page-0005](https://user-images.githubusercontent.com/116774235/201235451-0731a9d1-b7f0-4aca-ba46-01a003ba9555.jpg)
 
+
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
 
 ![EJERCICIOS FCE_page-0006](https://user-images.githubusercontent.com/116774235/201235508-91ba4a37-6a4a-4992-a1bc-d176983f8529.jpg)
+
 
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿Cuál es el voltaje a través del resistor?
 
 
 ![EJERCICIOS FCE_page-0007](https://user-images.githubusercontent.com/116774235/201235550-b2f1f389-a27e-4ed5-9ea2-a0b26723d8d3.jpg)
 
+
 11. Seis décimos de coulomb pasan por un punto en 3s. ¿Cuál es la corriente en amperes?
 
 
 ![EJERCICIOS FCE_page-0008](https://user-images.githubusercontent.com/116774235/201235612-05e3936c-b4b9-41d1-a2c9-e33fc1f3b78b.jpg)
 
+
 13. ¿Cuántos coulombs pasan por un punto en 0.1s cuando la corriente es de 1.5A?
 
 ![EJERCICIOS FCE_page-0009](https://user-images.githubusercontent.com/116774235/201235665-56294752-8059-4572-93c6-e3f9f792ccb5.jpg)
+
 
 17. Enliste cuatro fuentes de voltaje comunes
 
 Batería, Celda Solar, Fuente de potencia de CD, Generador
 
+
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
 La fuente de potencia convierte voltaje de CA en voltaje de CD
+
 
 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
 
@@ -321,6 +345,7 @@ a) rojo, violeta, naranja, oro
 b) café, gris, rojo, plata
 
 = 1.8 kΩ ± 10%
+
 
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330 Ω, 2.2kΩ, 56 kΩ, 100kΩ y 39kΩ
 
@@ -333,6 +358,7 @@ b) café, gris, rojo, plata
 •	100 kΩ: café, negro, amarillo, oro
 
 •	39 kΩ: naranja, blanco, naranja, oro
+
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas:
 
@@ -348,6 +374,7 @@ c) 5.1 MΩ
 
 = verde, café, verde, oro
 
+
 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
 
 a) 14.7 kΩ
@@ -362,15 +389,18 @@ c) 9.76 kΩ
 
 blanco, violeta, azul, café, café
 
+
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 ![EJERCICIOS FCE_page-0010](https://user-images.githubusercontent.com/116774235/201236496-13bbd3f7-6b9b-4f36-a0ea-c2d2d6fc6e2c.jpg)
+
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es el circuito.
 
 ![EJERCICIOS FCE_page-0011](https://user-images.githubusercontent.com/116774235/201236536-505e40ab-604f-4df9-ab37-378b97e1120b.jpg)
 
 = El circuito b es el que permite que todas las lámparas se enciendan al mismo tiempo
+
 
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
 
@@ -382,9 +412,11 @@ blanco, violeta, azul, café, café
 
 ![EJERCICIOS FCE_page-0012](https://user-images.githubusercontent.com/116774235/201236793-5440b479-1516-496f-be58-cbbb5306a13b.jpg)
 
+
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de la fuente en la figura 2-72
 
 ![EJERCICIOS FCE_page-0013](https://user-images.githubusercontent.com/116774235/201236848-e91840f9-29a5-4096-bbe8-50380e61de15.jpg)
+
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
 
@@ -394,15 +426,18 @@ blanco, violeta, azul, café, café
 
 •	Posición 2:  V1 = VS; V2 = 0 V
 
+
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 
 ![EJERCICIOS FCE_page-0015](https://user-images.githubusercontent.com/116774235/201237043-868bce5f-60f5-4321-9eee-aed5ff7d7725.jpg)
+
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
 ![EJERCICIOS FCE_page-0016](https://user-images.githubusercontent.com/116774235/201237099-7ffba373-34e5-46bf-b53e-cc20616e7055.jpg)
 
 = La lectura es de 250 V
+
 
 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
 
@@ -417,6 +452,7 @@ b) manecilla en 15, ajuste de intervalo en X100,000
 c) manecilla en 45, ajuste de intervalo en X100
 
 = 4500 Ω
+
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
