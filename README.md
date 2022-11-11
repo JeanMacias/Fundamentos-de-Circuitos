@@ -469,3 +469,12 @@ c) R1
 •	Las unidades de medidas del SI son de gran utilidad al momento de resolver problemas
 
 •	Los conceptos de Voltaje, Corriente y Resistencia facilitan el entendimiento de los circuitos eléctricos
+
+# Bibliografía
+
+•	https://isoexpertos.com/breve-historia-del-sistema-internacional-unidades/
+
+•	http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322002000100010#:~:text=El%20Sistema%20Internacional%20de%20Unidades,moderno%20usado%20a%20nivel%20mundial.
+
+•	https://es.scribd.com/doc/177992904/Principios-de-Circuitos-Electricos-Floyd-PDF
+
