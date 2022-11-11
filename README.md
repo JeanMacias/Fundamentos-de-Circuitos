@@ -1,5 +1,11 @@
 #  Fundamentos de Circuitos Eléctricos
 # Tarea 1
+
+Nombre: Jean Macias
+
+NRC: 10063
+
+
 # Objetivo General
 Desarrollar habilidades prácticas que se puedan aplicar para resolver problemas referentes a los circuitos eléctricos.
 # Objetivos Generales
@@ -385,6 +391,7 @@ blanco, violeta, azul, café, café
 ![EJERCICIOS FCE_page-0014](https://user-images.githubusercontent.com/116774235/201236911-daa4282f-2797-4955-8d14-e22eac3488c7.jpg)
 
 •	Posición 1:  V1 = 0; V2 = Vs
+
 •	Posición 2:  V1 = VS; V2 = 0 V
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
