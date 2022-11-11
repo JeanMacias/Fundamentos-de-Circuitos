@@ -467,4 +467,5 @@ c) R1
 #Conclusiones
 
 •	Las unidades de medidas del SI son de gran utilidad al momento de resolver problemas
+
 •	Los conceptos de Voltaje, Corriente y Resistencia facilitan el entendimiento de los circuitos eléctricos
