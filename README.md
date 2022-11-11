@@ -464,7 +464,7 @@ c) R1
 
 ![EJERCICIOS FCE_page-0017](https://user-images.githubusercontent.com/116774235/201237328-4ca9b5de-8f59-4030-ad7c-69f0c02ec372.jpg)
 
-#Conclusiones
+# Conclusiones
 
 •	Las unidades de medidas del SI son de gran utilidad al momento de resolver problemas
 
